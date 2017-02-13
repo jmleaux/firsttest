@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("This is my first test.")
         print("This is my second test line.")
         print("This is my third test line.")
+        print("This is my fourth test line, made after installing Git Desktop.")
     }
 
     override func didReceiveMemoryWarning() {
